@@ -118,7 +118,7 @@ def create_dir_and_download (args_list):
 
 def main ():
 
-    create_dir_and_download (sys.arv)
+    create_dir_and_download (sys.argv)
     return 0
 
 if __name__ == '__main__':
